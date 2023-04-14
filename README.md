@@ -237,9 +237,5 @@ This particular algorithm employs the use of backtracking, one of the more commo
 
 ## Acknowledgements
 
-* Shriram R - Idea Inspiration
-* Aravind B - Puzzle Display Design Ideas
-
-## Tools
-* Vim Editor
-* Clang C++ Compiler
+* Kirtenya Nitin Maheshwari - Idea Inspiration
+* Priyanshi Agarwal - Puzzle Display Design Ideas
